@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rezawr-mcp-basic-architecture-badge.png)](https://mseep.ai/app/rezawr-mcp-basic-architecture)
+
 # LangGraph MCP Server
 
 A clean, modular implementation of a Model Context Protocol (MCP) server for LangGraph documentation.
